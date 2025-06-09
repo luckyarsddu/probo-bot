@@ -1,0 +1,21 @@
+# Python bytecode and temporary files
+__pycache__/
+*.pyc
+
+# Virtual environment directory
+venv/
+env/
+
+# Log files
+*.log
+
+# Sensitive local environment variables
+.env
+
+# MacOS specific files
+.DS_Store
+
+# Matplotlib generated image files (if your bot saves them)
+*.png
+*.jpg
+*.jpeg
