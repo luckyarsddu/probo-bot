@@ -1,0 +1,8 @@
+python-telegram-bot
+pandas
+ta
+matplotlib
+requests
+pytz
+python-binance
+aiohttp # python-binance might need this
